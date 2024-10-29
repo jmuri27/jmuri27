@@ -26,7 +26,7 @@ Here are some key projects that showcase my skills and experience:
 
 ### <a href="https://github.com/jmuri27/Vulnerability-Assessment-and-Penetration-Testing-VAPT-">Vulnerability Assessment and Penetration Testing (VAPT)</a>
 ### <a href="https://github.com/jmuri27/Penetration-Testing-Report-Metasploitable-System/tree/main">Penetration Testing Report: Metasploitable System</a>
-### Network Security Simulation
+### <a href="https://github.com/jmuri27/Vulnerability-Assessment-Report/tree/main">Vulnerability Assessment Report</a>
 
 ## Certifications
 - **CompTIA Security+** (In Progress)
