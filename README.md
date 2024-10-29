@@ -25,7 +25,7 @@ I am a recent cybersecurity graduate with a solid foundation in network security
 Here are some key projects that showcase my skills and experience:
 
 ### <a href="https://github.com/jmuri27/Vulnerability-Assessment-and-Penetration-Testing-VAPT-">Vulnerability Assessment and Penetration Testing (VAPT)</a>
-### Malware Analysis Home Lab
+### <a href="https://github.com/jmuri27/Penetration-Testing-Report-Metasploitable-System/tree/main">Penetration Testing Report: Metasploitable System</a>
 ### Network Security Simulation
 
 ## Certifications
